@@ -6,4 +6,4 @@ This repository contains all necessary files for the implementation Sequential M
 - kernel.py: A file containing both linear and gaussian kernel for SMO.
 - SMO.py: A file containing the implementation of Platt SMO algorithm.
 - main.py: This is the main file of the project. Run it to test the performance of implemented SMO. 
-- Report.pdf: It is located in documents folder. This file contains all documentation of my implementation as well as the time complexity result.
+- DataMiningSMO.pdf: It is located in documents folder. This file is my research paper about studying efficiency and complexity of SMO algorithm. 
